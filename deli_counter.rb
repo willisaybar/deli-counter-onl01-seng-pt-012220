@@ -68,6 +68,3 @@ def now_serving(line)
     puts "Currently serving #{line[0]}." 
   end
 end
-
-puts now_serving(katz_deli)
-puts katz_deli
